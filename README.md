@@ -34,7 +34,9 @@ Poe is your one-stop app, powered by the most advanced AI technology.
  <div align="center"> 
 It is designed for seamless conversational experiences, enhanced productivity, and creative content generation.
   <div align="center">
-Ask questions and get answers from advanced AIs like DeepSeek-V3, DeepSeek-R1, GPT-3.5, GPT-4, or Claude 3 Opus And Many More!!!
+Ask questions and get answers from advanced AIs like 
+	  <div align="center">
+DeepSeek-V3, DeepSeek-R1, GPT-3.5, GPT-4, or Claude 3 Opus And Many More!!!
 <div align="center">
 Personally Ive Been Using This Myself with DeepSeek-V3 Its Currently Working Better Than The DeepSeek Site
 
