@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="https://i.postimg.cc/Zn3LFDhS/Poe.png" alt="logo">
+    <img width="750" src="https://i.postimg.cc/vTJ3Jxs5/poe.png" alt="logo">
 </p>
 
 <div align="center">
